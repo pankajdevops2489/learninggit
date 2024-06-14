@@ -3,7 +3,7 @@ dropdown=true
 
 if [ dropdown -eq true ]; then
 do
-echo "successful"
+echo "working"
 else
-echo "not successful"
+echo "not working"
 fi
